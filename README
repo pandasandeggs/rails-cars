@@ -1,3 +1,4 @@
 # Deliverable:
 * Write Hello World App
 * push to remote
+* Do "git push --set-upstream origin master" then "git push" the rest of the time. 
